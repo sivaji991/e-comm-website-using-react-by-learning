@@ -24,7 +24,7 @@ const OrdersPage = () => {
                   </div>
                   <div className="order-total">
                     <div className="order-header-label">Total:</div>
-                    <div>$35.06</div>
+                    <div>&#x20B9;35.06</div>
                   </div>
                 </div>
 
@@ -104,7 +104,7 @@ const OrdersPage = () => {
                   </div>
                   <div className="order-total">
                     <div className="order-header-label">Total:</div>
-                    <div>$41.90</div>
+                    <div>&#x20B9;41.90</div>
                   </div>
                 </div>
 

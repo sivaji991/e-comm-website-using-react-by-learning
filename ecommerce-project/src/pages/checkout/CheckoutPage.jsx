@@ -30,7 +30,7 @@ const CheckoutPage = () => {
                   <div className="product-name">
                     Black and Gray Athletic Cotton Socks - 6 Pairs
                   </div>
-                  <div className="product-price">$10.90</div>
+                  <div className="product-price">&#x20B9;10.90</div>
                   <div className="product-quantity">
                     <span>
                       Quantity: <span className="quantity-label">2</span>
@@ -73,7 +73,7 @@ const CheckoutPage = () => {
                         Wednesday, June 15
                       </div>
                       <div className="delivery-option-price">
-                        $4.99 - Shipping
+                        &#x20B9;4.99 - Shipping
                       </div>
                     </div>
                   </div>
@@ -88,7 +88,7 @@ const CheckoutPage = () => {
                         Monday, June 13
                       </div>
                       <div className="delivery-option-price">
-                        $9.99 - Shipping
+                        &#x20B9;9.99 - Shipping
                       </div>
                     </div>
                   </div>
@@ -111,7 +111,7 @@ const CheckoutPage = () => {
                   <div className="product-name">
                     Intermediate Size Basketball
                   </div>
-                  <div className="product-price">$20.95</div>
+                  <div className="product-price">&#x20B9;20.95</div>
                   <div className="product-quantity">
                     <span>
                       Quantity: <span className="quantity-label">1</span>
@@ -155,7 +155,7 @@ const CheckoutPage = () => {
                         Wednesday, June 15
                       </div>
                       <div className="delivery-option-price">
-                        $4.99 - Shipping
+                        &#x20B9;4.99 - Shipping
                       </div>
                     </div>
                   </div>
@@ -170,7 +170,7 @@ const CheckoutPage = () => {
                         Monday, June 13
                       </div>
                       <div className="delivery-option-price">
-                        $9.99 - Shipping
+                        &#x20B9;9.99 - Shipping
                       </div>
                     </div>
                   </div>
@@ -184,27 +184,27 @@ const CheckoutPage = () => {
 
             <div className="payment-summary-row">
               <div>Items (3):</div>
-              <div className="payment-summary-money">$42.75</div>
+              <div className="payment-summary-money">&#x20B9;42.75</div>
             </div>
 
             <div className="payment-summary-row">
               <div>Shipping &amp; handling:</div>
-              <div className="payment-summary-money">$4.99</div>
+              <div className="payment-summary-money">&#x20B9;4.99</div>
             </div>
 
             <div className="payment-summary-row subtotal-row">
               <div>Total before tax:</div>
-              <div className="payment-summary-money">$47.74</div>
+              <div className="payment-summary-money">&#x20B9;47.74</div>
             </div>
 
             <div className="payment-summary-row">
               <div>Estimated tax (10%):</div>
-              <div className="payment-summary-money">$4.77</div>
+              <div className="payment-summary-money">&#x20B9;4.77</div>
             </div>
 
             <div className="payment-summary-row total-row">
               <div>Order total:</div>
-              <div className="payment-summary-money">$52.51</div>
+              <div className="payment-summary-money">&#x20B9;52.51</div>
             </div>
 
             <button className="place-order-button button-primary">
