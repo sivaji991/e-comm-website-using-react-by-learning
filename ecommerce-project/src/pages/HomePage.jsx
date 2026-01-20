@@ -6,7 +6,7 @@ import CheckMarkIcon from '../assets/images/icons/checkmark.png'
 const HomePage = () => {
   return (
     <>
-      <title>Ecommerce Project</title>
+      <title>Home</title>
       <link rel="icon" type="image/svg+xml" href="home-favicon.png" />
         <Header />
 
